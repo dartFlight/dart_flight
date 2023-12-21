@@ -1,0 +1,31 @@
+name: dart_flight
+version: 0.0.1
+description: >-
+  dart_flight is a lightweight application framework for the Dart language that
+  enables rapid development and deployment of servers utilizing the MVC
+  (or Model-View-Controller) architectural pattern to handle requests.
+
+# homepage:
+repository: https://github.com/whydaNox/dart_flight
+issue_tracker: https://github.com/whydaNox/dart_flight_issues
+# documentation:
+
+environment:
+  sdk: '^3.0.0'
+
+dependencies:
+  #
+
+dev_dependencies:
+  #
+
+# executables:
+  #
+
+# platforms:
+  #
+
+publish_to: none
+
+# funding:
+  #
